@@ -1,0 +1,17 @@
+{
+    "firstName": "Saurabh",
+    "lastName" : "Padman",
+    "mail": "saurabhpadman9@gmail.com",
+    "phone": "+91 7028743565",
+    "personalDescription": "I am a software developer and currently working in the conversational and generative ai field with intermediate level knowledge of .NET and web development",
+    "educationPlace": "PCCOE Pune",
+    "educationCourse": "Computer Science Engineering",
+    "educationCourseStartYear": "2017",
+    "educationCourseEndYear": "2021",
+    "educationCourseDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia quis molestias placeat id, facilis accusantium vitae pariatur laudantium veniam esse. Voluptatibus soluta, debitis deserunt consectetur commodi delectus laudantium nulla excepturi ex, sapiente nemo tempora accusantium impedit ducimus aperiam quos modi explicabo est, repellendus eveniet? Totam quas soluta eaque sed repudiandae?",
+    "workPlace": "Accenture",
+    "workRole": "Application Development Analyst",
+    "workRoleStartYear": "2021",
+    "workRoleEndYear": "Present",
+    "workRoleDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia quis molestias placeat id, facilis accusantium vitae pariatur laudantium veniam esse. Voluptatibus soluta, debitis deserunt consectetur commodi delectus laudantium nulla excepturi ex, sapiente nemo tempora accusantium impedit ducimus aperiam quos modi explicabo est, repellendus eveniet? Totam quas soluta eaque sed repudiandae?"
+}

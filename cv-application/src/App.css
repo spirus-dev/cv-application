@@ -1,0 +1,23 @@
+.header {
+  font-size: 2rem;
+  background-color: #8700FF;
+  color: white;
+  padding: 4px 2px;
+  font-weight: bold;
+  height: 10vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.footer{
+  font-size: 1rem;
+  background-color: #8700FF;
+  color: white;
+  padding: 4px 2px;
+  font-weight: bold;
+  height: 5vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

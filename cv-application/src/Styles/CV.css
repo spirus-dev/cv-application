@@ -1,0 +1,62 @@
+.cv{
+    width: 50%;
+    position: relative;
+    overflow: auto;
+}
+
+.cv-main{
+    
+}
+
+.personal{
+    border-bottom: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    margin: 0.5rem;
+}
+
+.name{
+    font-size: 2rem;
+    text-align: center;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.contact{
+    display: flex;
+    justify-content: center;
+}
+
+.contact-main{
+    display: flex;
+    gap: 1rem;
+}
+
+.description{
+    text-align: center;
+    margin-bottom: 0.5rem;
+}
+
+.education, .work{
+    margin: 0.5rem;
+}
+
+.education-title, .work-title{
+    font-weight: bold;
+    font-size: 1.25rem;
+    text-align: center;
+}
+
+.education, .work{
+    border-bottom: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+
+.education-description, .work-description{
+    margin-bottom: 0.5rem;
+}

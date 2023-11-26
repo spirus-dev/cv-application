@@ -1,0 +1,6 @@
+.details{
+    background-color: antiquewhite;
+    width: 50%;
+    position: relative;
+    overflow: auto;
+}
