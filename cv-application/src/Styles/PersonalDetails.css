@@ -1,0 +1,39 @@
+.personalDetailsTitle{
+    text-align: center;
+    padding: 1rem;
+    border-bottom: 1px solid black;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+form{
+    padding: 0.5rem;
+    display: flex;
+    flex-direction: column;
+    row-gap: 0.5rem;
+    border-bottom: 1px solid black;
+}
+
+.inputRow{
+    display: flex;
+}
+
+.inputRow label{
+    font-weight: bold;
+}
+
+.inputRow input, .inputRow label{
+    flex: 1;
+    padding: 0.5rem;
+}
+
+textarea{
+    flex:1;
+    padding: 0.5rem;
+}
+
+button{
+    width: 10%;
+    align-self: center;
+    font-weight: bold;
+}
